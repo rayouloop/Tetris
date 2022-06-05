@@ -38,7 +38,7 @@ Do not pay attention to warnings while compiling it does not affect the game in 
 
 Compilation                                     -> make
 
-Execute                                         -> ./play
+Execute                                         -> ./game
 
 If you want to end the game without game over   -> CTRL+C
 
